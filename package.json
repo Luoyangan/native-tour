@@ -1,0 +1,32 @@
+{
+  "name": "koishi-plugin-native-tour",
+  "description": "原生之旅",
+  "version": "1.0.0",
+  "contributors": [
+    "Luoyangan <1522676944@qq.com>"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "homepage": "https://mcyszl.top",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luoyangan/native-tour.git"
+  },
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "native-tour",
+    "Native Tour",
+    "native tour",
+    "原生之旅"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.18.7"
+  }
+}
